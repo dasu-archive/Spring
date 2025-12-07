@@ -1,11 +1,11 @@
-package study.spring.aop;
+package study.spring.aop.aop;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.EnableAspectJAutoProxy;
-import study.spring.aop.domain.hello.service.HelloService;
+import study.spring.aop.aop.domain.hello.service.HelloService;
 
 
 /*

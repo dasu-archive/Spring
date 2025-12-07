@@ -1,4 +1,4 @@
-package study.spring.aop.config.aspect;
+package study.spring.aop.aop.config.aspect;
 
 
 import org.aspectj.lang.JoinPoint;

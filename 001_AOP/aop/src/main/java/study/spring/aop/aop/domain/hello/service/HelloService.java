@@ -1,4 +1,4 @@
-package study.spring.aop.domain.hello.service;
+package study.spring.aop.aop.domain.hello.service;
 
 
 import org.springframework.stereotype.Service;
